@@ -1,0 +1,11 @@
+  Para fazer efeitos legais nas funções de caça niquel e roleta, eu usei a biblioteca do ncurses (biblioteca em C), a unica coisa ruim é que essa biblioteca é exclusiva do linux.
+  Tem duas alternativas que eu achei para visualizar bem:
+      - Eu programei tudo usando o gdb online e ele compilou exatamente do jeito que eu queria todos os arquivos.
+      link do gdb online: https://www.onlinegdb.com/
+      é só copiar o código e jogar nele, não precisa nem criar conta, é bem prático.
+      - Eu achei um video de um rapaz que explicava como que usava essa biblioteca pelo VScode atraves do WSL (windows subsystem for linux).
+      link do video: https://youtu.be/iXqQ9JYAXP4?si=ed7-EP9nldwt4U-P
+      eu particurlarmente não consegui rodar no VScode mas porque o meu está bixado e eu estou no processo de resolver isso.
+
+Estou realmente preocupada que vocês consigam ver tudo o que planejei nesse desafio, espero que de tudo certo.
+Obrigado pela atenção!!!
